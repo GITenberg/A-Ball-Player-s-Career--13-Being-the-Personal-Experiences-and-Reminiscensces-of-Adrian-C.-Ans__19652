@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8796
     wikipedia: http://en.wikipedia.org/wiki/Cap_Anson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19652#A-Ball-Player-s-Career--13-Being-the-Personal-Experiences-and-Reminiscensces-of-Adrian-C.-Ans_
 gutenberg_issued: '2006-10-28'
 gutenberg_type: Text
 identifiers:
