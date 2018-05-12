@@ -1,0 +1,29 @@
+_repo: A-Ball-Player-s-Career--13-Being-the-Personal-Experiences-and-Reminiscensces-of-Adrian-C.-Ans__19652
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anson, Adrian Constantine
+    alias: Anson, Cap
+    birthdate: 1852
+    deathdate: 1922
+    gutenberg_agent_id: '8796'
+    url: http://www.gutenberg.org/2009/agents/8796
+    wikipedia: http://en.wikipedia.org/wiki/Cap_Anson
+description: ''
+gutenberg_issued: '2006-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Baseball'
+- !lcc 'GV'
+title: "A Ball Player's Career\r\nBeing the Personal Experiences and Reminiscensces\
+  \ of Adrian C. Anson"
+url: http://www.gutenberg.org/ebooks/19652
